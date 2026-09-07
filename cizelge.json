@@ -1,6 +1,7 @@
 {
-  "aciklama": "Bulut yayin cizelgesi. GitHub Actions 15 dakikada bir okur ve sirasi geleni Instagram'a yayimlar. Bilgisayarin acik olmasi gerekmez.",
+  "aciklama": "Bulut yayin cizelgesi. GitHub Actions aksam penceresinde okur ve sirasi geleni Instagram'a yayimlar. Bilgisayarin acik olmasi gerekmez.",
   "karar": "2026-09-07 - Emrullah KARA: \"pc kapaliykende gondermenin yolunu bul\".",
+  "saatKarari": "2026-09-07 18:20 - Emrullah KARA: \"paylasim saatlerini aksam 18 den sonraya sirala\". Tum gonderiler 18:00 ile 22:00 arasina alindi. Calisma penceresi de ayni araliga daraltildi.",
   "gonderiler": [
     {
       "no": 101,
@@ -45,7 +46,7 @@
     {
       "no": 105,
       "platform": "instagram",
-      "zaman": "2026-09-07T21:30:00+03:00",
+      "zaman": "2026-09-07T20:30:00+03:00",
       "durum": "bekliyor",
       "gorsel": "g11-guzellik-telefon.jpg",
       "metin": "g11-guzellik-telefon.txt"
@@ -53,7 +54,7 @@
     {
       "no": 106,
       "platform": "instagram",
-      "zaman": "2026-09-08T09:30:00+03:00",
+      "zaman": "2026-09-08T18:30:00+03:00",
       "durum": "bekliyor",
       "gorsel": "g12-guzellik-defter.jpg",
       "metin": "g12-guzellik-defter.txt"
@@ -61,7 +62,7 @@
     {
       "no": 107,
       "platform": "instagram",
-      "zaman": "2026-09-08T12:30:00+03:00",
+      "zaman": "2026-09-08T20:00:00+03:00",
       "durum": "bekliyor",
       "gorsel": "g15-genel-teklif.jpg",
       "metin": "g15-genel-teklif.txt"
@@ -69,7 +70,7 @@
     {
       "no": 108,
       "platform": "instagram",
-      "zaman": "2026-09-08T15:30:00+03:00",
+      "zaman": "2026-09-08T21:30:00+03:00",
       "durum": "bekliyor",
       "gorsel": "g16-yayinevi-dosya.jpg",
       "metin": "g16-yayinevi-dosya.txt"
