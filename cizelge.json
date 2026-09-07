@@ -1,0 +1,70 @@
+{
+  "aciklama": "Bulut yayin cizelgesi. GitHub Actions 15 dakikada bir okur ve sirasi geleni Instagram'a yayimlar. Bilgisayarin acik olmasi gerekmez.",
+  "karar": "2026-09-07 - Emrullah KARA: \"pc kapaliykende gondermenin yolunu bul\".",
+  "gonderiler": [
+    {
+      "no": 101,
+      "platform": "instagram",
+      "zaman": "2026-09-07T09:30:00+03:00",
+      "durum": "bekliyor",
+      "gorsel": "g9-guzellik-tekrar.jpg",
+      "metin": "g9-guzellik-tekrar.txt"
+    },
+    {
+      "no": 102,
+      "platform": "instagram",
+      "zaman": "2026-09-07T12:30:00+03:00",
+      "durum": "bekliyor",
+      "gorsel": "g13-insaat-puantaj.jpg",
+      "metin": "g13-insaat-puantaj.txt"
+    },
+    {
+      "no": 103,
+      "platform": "instagram",
+      "zaman": "2026-09-07T15:30:00+03:00",
+      "durum": "bekliyor",
+      "gorsel": "g10-guzellik-kapora.jpg",
+      "metin": "g10-guzellik-kapora.txt"
+    },
+    {
+      "no": 104,
+      "platform": "instagram",
+      "zaman": "2026-09-07T18:30:00+03:00",
+      "durum": "bekliyor",
+      "gorsel": "g14-emlak-gezdirme.jpg",
+      "metin": "g14-emlak-gezdirme.txt"
+    },
+    {
+      "no": 105,
+      "platform": "instagram",
+      "zaman": "2026-09-07T21:30:00+03:00",
+      "durum": "bekliyor",
+      "gorsel": "g11-guzellik-telefon.jpg",
+      "metin": "g11-guzellik-telefon.txt"
+    },
+    {
+      "no": 106,
+      "platform": "instagram",
+      "zaman": "2026-09-08T09:30:00+03:00",
+      "durum": "bekliyor",
+      "gorsel": "g12-guzellik-defter.jpg",
+      "metin": "g12-guzellik-defter.txt"
+    },
+    {
+      "no": 107,
+      "platform": "instagram",
+      "zaman": "2026-09-08T12:30:00+03:00",
+      "durum": "bekliyor",
+      "gorsel": "g15-genel-teklif.jpg",
+      "metin": "g15-genel-teklif.txt"
+    },
+    {
+      "no": 108,
+      "platform": "instagram",
+      "zaman": "2026-09-08T15:30:00+03:00",
+      "durum": "bekliyor",
+      "gorsel": "g16-yayinevi-dosya.jpg",
+      "metin": "g16-yayinevi-dosya.txt"
+    }
+  ]
+}
