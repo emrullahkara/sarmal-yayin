@@ -47,33 +47,41 @@
       "no": 105,
       "platform": "instagram",
       "zaman": "2026-09-07T20:30:00+03:00",
-      "durum": "bekliyor",
+      "durum": "yayimlandi",
       "gorsel": "g11-guzellik-telefon.jpg",
-      "metin": "g11-guzellik-telefon.txt"
+      "metin": "g11-guzellik-telefon.txt",
+      "yayinZamani": "2026-09-08T18:35:52.898Z",
+      "gonderiKimligi": "18175140466433006"
     },
     {
       "no": 106,
       "platform": "instagram",
       "zaman": "2026-09-08T18:30:00+03:00",
-      "durum": "bekliyor",
+      "durum": "yayimlandi",
       "gorsel": "g12-guzellik-defter.jpg",
-      "metin": "g12-guzellik-defter.txt"
+      "metin": "g12-guzellik-defter.txt",
+      "yayinZamani": "2026-09-08T18:36:12.574Z",
+      "gonderiKimligi": "17910658578281728"
     },
     {
       "no": 107,
       "platform": "instagram",
       "zaman": "2026-09-08T20:00:00+03:00",
-      "durum": "bekliyor",
+      "durum": "yayimlandi",
       "gorsel": "g15-genel-teklif.jpg",
-      "metin": "g15-genel-teklif.txt"
+      "metin": "g15-genel-teklif.txt",
+      "yayinZamani": "2026-09-08T18:36:32.870Z",
+      "gonderiKimligi": "18110892491116184"
     },
     {
       "no": 108,
       "platform": "instagram",
       "zaman": "2026-09-08T21:30:00+03:00",
-      "durum": "bekliyor",
+      "durum": "yayimlandi",
       "gorsel": "g16-yayinevi-dosya.jpg",
-      "metin": "g16-yayinevi-dosya.txt"
+      "metin": "g16-yayinevi-dosya.txt",
+      "yayinZamani": "2026-09-08T18:36:53.487Z",
+      "gonderiKimligi": "18136074526529290"
     }
   ]
 }
