@@ -52,6 +52,406 @@
       "metin": "r1-kuafor-telefon.txt",
       "yayinZamani": "2026-09-12T17:44:58.760Z",
       "gonderiKimligi": "18150948436535686"
+    },
+    {
+      "no": 301,
+      "platform": "instagram",
+      "zaman": "2026-09-17T18:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-01.mp4",
+      "metin": "salon-01.txt"
+    },
+    {
+      "no": 302,
+      "platform": "instagram",
+      "zaman": "2026-09-17T20:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-11.mp4",
+      "metin": "salon-11.txt"
+    },
+    {
+      "no": 303,
+      "platform": "instagram",
+      "zaman": "2026-09-17T21:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-21.mp4",
+      "metin": "salon-21.txt"
+    },
+    {
+      "no": 304,
+      "platform": "instagram",
+      "zaman": "2026-09-18T18:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-31.mp4",
+      "metin": "salon-31.txt"
+    },
+    {
+      "no": 305,
+      "platform": "instagram",
+      "zaman": "2026-09-18T20:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-41.mp4",
+      "metin": "salon-41.txt"
+    },
+    {
+      "no": 306,
+      "platform": "instagram",
+      "zaman": "2026-09-18T21:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-02.mp4",
+      "metin": "salon-02.txt"
+    },
+    {
+      "no": 307,
+      "platform": "instagram",
+      "zaman": "2026-09-19T19:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-12.mp4",
+      "metin": "salon-12.txt"
+    },
+    {
+      "no": 308,
+      "platform": "instagram",
+      "zaman": "2026-09-19T21:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-22.mp4",
+      "metin": "salon-22.txt"
+    },
+    {
+      "no": 309,
+      "platform": "instagram",
+      "zaman": "2026-09-20T19:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-32.mp4",
+      "metin": "salon-32.txt"
+    },
+    {
+      "no": 310,
+      "platform": "instagram",
+      "zaman": "2026-09-20T21:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-42.mp4",
+      "metin": "salon-42.txt"
+    },
+    {
+      "no": 311,
+      "platform": "instagram",
+      "zaman": "2026-09-21T18:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-03.mp4",
+      "metin": "salon-03.txt"
+    },
+    {
+      "no": 312,
+      "platform": "instagram",
+      "zaman": "2026-09-21T20:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-13.mp4",
+      "metin": "salon-13.txt"
+    },
+    {
+      "no": 313,
+      "platform": "instagram",
+      "zaman": "2026-09-21T21:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-23.mp4",
+      "metin": "salon-23.txt"
+    },
+    {
+      "no": 314,
+      "platform": "instagram",
+      "zaman": "2026-09-22T18:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-33.mp4",
+      "metin": "salon-33.txt"
+    },
+    {
+      "no": 315,
+      "platform": "instagram",
+      "zaman": "2026-09-22T20:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-43.mp4",
+      "metin": "salon-43.txt"
+    },
+    {
+      "no": 316,
+      "platform": "instagram",
+      "zaman": "2026-09-22T21:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-04.mp4",
+      "metin": "salon-04.txt"
+    },
+    {
+      "no": 317,
+      "platform": "instagram",
+      "zaman": "2026-09-23T18:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-14.mp4",
+      "metin": "salon-14.txt"
+    },
+    {
+      "no": 318,
+      "platform": "instagram",
+      "zaman": "2026-09-23T20:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-24.mp4",
+      "metin": "salon-24.txt"
+    },
+    {
+      "no": 319,
+      "platform": "instagram",
+      "zaman": "2026-09-23T21:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-34.mp4",
+      "metin": "salon-34.txt"
+    },
+    {
+      "no": 320,
+      "platform": "instagram",
+      "zaman": "2026-09-24T18:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-44.mp4",
+      "metin": "salon-44.txt"
+    },
+    {
+      "no": 321,
+      "platform": "instagram",
+      "zaman": "2026-09-24T20:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-05.mp4",
+      "metin": "salon-05.txt"
+    },
+    {
+      "no": 322,
+      "platform": "instagram",
+      "zaman": "2026-09-24T21:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-15.mp4",
+      "metin": "salon-15.txt"
+    },
+    {
+      "no": 323,
+      "platform": "instagram",
+      "zaman": "2026-09-25T18:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-25.mp4",
+      "metin": "salon-25.txt"
+    },
+    {
+      "no": 324,
+      "platform": "instagram",
+      "zaman": "2026-09-25T20:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-35.mp4",
+      "metin": "salon-35.txt"
+    },
+    {
+      "no": 325,
+      "platform": "instagram",
+      "zaman": "2026-09-25T21:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-45.mp4",
+      "metin": "salon-45.txt"
+    },
+    {
+      "no": 326,
+      "platform": "instagram",
+      "zaman": "2026-09-26T19:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-06.mp4",
+      "metin": "salon-06.txt"
+    },
+    {
+      "no": 327,
+      "platform": "instagram",
+      "zaman": "2026-09-26T21:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-16.mp4",
+      "metin": "salon-16.txt"
+    },
+    {
+      "no": 328,
+      "platform": "instagram",
+      "zaman": "2026-09-27T19:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-26.mp4",
+      "metin": "salon-26.txt"
+    },
+    {
+      "no": 329,
+      "platform": "instagram",
+      "zaman": "2026-09-27T21:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-36.mp4",
+      "metin": "salon-36.txt"
+    },
+    {
+      "no": 330,
+      "platform": "instagram",
+      "zaman": "2026-09-28T18:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-46.mp4",
+      "metin": "salon-46.txt"
+    },
+    {
+      "no": 331,
+      "platform": "instagram",
+      "zaman": "2026-09-28T20:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-07.mp4",
+      "metin": "salon-07.txt"
+    },
+    {
+      "no": 332,
+      "platform": "instagram",
+      "zaman": "2026-09-28T21:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-17.mp4",
+      "metin": "salon-17.txt"
+    },
+    {
+      "no": 333,
+      "platform": "instagram",
+      "zaman": "2026-09-29T18:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-27.mp4",
+      "metin": "salon-27.txt"
+    },
+    {
+      "no": 334,
+      "platform": "instagram",
+      "zaman": "2026-09-29T20:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-37.mp4",
+      "metin": "salon-37.txt"
+    },
+    {
+      "no": 335,
+      "platform": "instagram",
+      "zaman": "2026-09-29T21:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-47.mp4",
+      "metin": "salon-47.txt"
+    },
+    {
+      "no": 336,
+      "platform": "instagram",
+      "zaman": "2026-09-30T18:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-08.mp4",
+      "metin": "salon-08.txt"
+    },
+    {
+      "no": 337,
+      "platform": "instagram",
+      "zaman": "2026-09-30T20:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-18.mp4",
+      "metin": "salon-18.txt"
+    },
+    {
+      "no": 338,
+      "platform": "instagram",
+      "zaman": "2026-09-30T21:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-28.mp4",
+      "metin": "salon-28.txt"
+    },
+    {
+      "no": 339,
+      "platform": "instagram",
+      "zaman": "2026-10-01T18:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-38.mp4",
+      "metin": "salon-38.txt"
+    },
+    {
+      "no": 340,
+      "platform": "instagram",
+      "zaman": "2026-10-01T20:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-48.mp4",
+      "metin": "salon-48.txt"
+    },
+    {
+      "no": 341,
+      "platform": "instagram",
+      "zaman": "2026-10-01T21:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-09.mp4",
+      "metin": "salon-09.txt"
+    },
+    {
+      "no": 342,
+      "platform": "instagram",
+      "zaman": "2026-10-02T18:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-19.mp4",
+      "metin": "salon-19.txt"
+    },
+    {
+      "no": 343,
+      "platform": "instagram",
+      "zaman": "2026-10-02T20:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-29.mp4",
+      "metin": "salon-29.txt"
+    },
+    {
+      "no": 344,
+      "platform": "instagram",
+      "zaman": "2026-10-02T21:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-39.mp4",
+      "metin": "salon-39.txt"
+    },
+    {
+      "no": 345,
+      "platform": "instagram",
+      "zaman": "2026-10-03T19:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-49.mp4",
+      "metin": "salon-49.txt"
+    },
+    {
+      "no": 346,
+      "platform": "instagram",
+      "zaman": "2026-10-03T21:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-10.mp4",
+      "metin": "salon-10.txt"
+    },
+    {
+      "no": 347,
+      "platform": "instagram",
+      "zaman": "2026-10-04T19:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-20.mp4",
+      "metin": "salon-20.txt"
+    },
+    {
+      "no": 348,
+      "platform": "instagram",
+      "zaman": "2026-10-04T21:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-30.mp4",
+      "metin": "salon-30.txt"
+    },
+    {
+      "no": 349,
+      "platform": "instagram",
+      "zaman": "2026-10-05T18:30:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-40.mp4",
+      "metin": "salon-40.txt"
+    },
+    {
+      "no": 350,
+      "platform": "instagram",
+      "zaman": "2026-10-05T20:00:00+03:00",
+      "durum": "bekliyor",
+      "video": "salon-50.mp4",
+      "metin": "salon-50.txt"
     }
   ],
   "arsiv": [
@@ -99,5 +499,7 @@
       "gonderiKimligi": "18136074526529290",
       "arsivNotu": "Emrullah KARA 2026-09-12: insaat/yayinevi/kobi/emlak arsive alindi, guzellik salonundan yurunuyor"
     }
-  ]
+  ],
+  "sektorKarari": "2026-09-12 - Emrullah KARA: emlak icerigi devre disi, guzellik salonundan yurunuyor. Insaat/yayinevi/kobi/emlak arsivde. Emlak videosu (2026-09-09-emlak-takip.mp4) yayin sirasina alinmaz; dosya yerinde durur, silinmez.",
+  "videoKarari": "2026-09-17 - Emrullah KARA: \"gunluk 2-3 paylasim olarak devam edebilirsin\". 50 salon videosu siraya alindi. Hafta ici 3 (18:30/20:00/21:30), hafta sonu 2 (19:00/21:00). Saatler is akisi penceresi icinde (cron 15-19 UTC = 18:07-22:52 TR)."
 }
