@@ -38,11 +38,25 @@ uçtan uca kanıtlandı** (kuaför Reels'i aynı klasörden yayımlandı, kimlik
 görünmeli. Görünmüyorsa iş akışı günlüğüne bakılır. **Tek olumsuz okumadan hüküm kurulmaz** -
 `deneme` sayacı 3'e kadar tekrar dener.
 
-## Emrullah KARA'ya sorulmuş, cevap bekleyen
+## Emrullah KARA'ya sorulmuş - İKİSİ DE CEVAPLANDI (2026-09-17)
 
-1. `RULES.md` *"günde en az 5 gönderi"* diyor, 2026-09-17 talimatı *"2-3"*. Kural metni güncellensin mi?
-2. `YAYIN_PLANI.md` *"4.999 TL tanıtım sitesi"* diyor, sitede 29.999 / 49.999 TL duruyor. Hangisi geçerli?
-   (Videolarda fiyat geçmiyor, yayını etkilemiyor - yalnız sabitlenecek gönderi önerisini ilgilendirir.)
+**1. Tempo kuralı → değişmedi.** Emrullah KARA: *"şimdilik 5 kalsın"*. `RULES.md` madde 44
+(*"günde en az 5 gönderi, tüm platformlar toplamı"*) **olduğu gibi duruyor, dokunulmadı.**
+Bu hattın verdiği 2-3 gönderi yalnız Instagram'dır; kural tüm platformların toplamını sayar.
+Aradaki fark bilinçlidir, çelişki değildir.
+
+**2. Fiyat → çelişki yoktu, ölçüm eksikti.** Emrullah KARA üç kademeyi ayırdı: *"tanıtım sitesi
+4999 ama bağlantılı entegreli site 29999 satış sitesi ise 49999"*. Üçü de sitede yazılı
+(ölçüldü). Dün *"çelişki var"* diye bildirilmişti - **yanlıştı**, sayfanın yalnız bir bölümü
+okunmuştu. `YAYIN_PLANI.md` 4.999 TL'yi doğru söylüyor, o en alt kademe.
+
+Tam kayıt ve kademe tablosu: `../../satis/MEMORY.md` → "Fiyat Kademeleri".
+
+> **🔴 Oradan çıkan açık risk:** sitedeki 29.999 TL paketi *"randevu ve hatırlatma düzeni"*
+> içeriyor, `orchestrator/HIZMET_KATALOGU.md` ise hatırlatmayı **teslim edilemez** gösteriyor
+> (WhatsApp Business hesabı açılmadı; 2026-09-17'de yeniden ölçüldü, `WHATSAPP_PHONE` boş).
+> **Bu yayın hattını etkilemez** - 50 videonun hiçbirinde fiyat ve hatırlatma vaadi geçmiyor.
+> Kademe 2 için teklif hazırlanacağı gün `satis` ajanı bunu Emrullah KARA'ya sorar.
 
 ## Setin bilinen eksiği
 
