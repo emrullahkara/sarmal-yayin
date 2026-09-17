@@ -1,35 +1,13 @@
 # DEVAM - 50 Salon Reels Yayını
 
-**Son güncelleme:** 2026-09-17 02:54 · Ajan: `sosyal-medya`
+**Son güncelleme:** 2026-09-17 09:55 · Ajan: `sosyal-medya`
 
 ---
 
-## 🔴 TEK AÇIK MADDE: GÖNDERİM
+## ✅ YAYINDA - açık madde yok
 
-Her şey hazır ve **yerelde işlendi**. Kalan tek iş `git push`.
-
-```
-cd "C:\Users\Furkan Bey\Desktop\AJANLAR\AJANLAR\agents\sosyal-medya\bulut-yayin"
-git push origin main
-```
-
-**Neden bekliyor:** Onay kapısı hook'u push komutunu durdurdu, onay kartı ajana ulaşmadı.
-Emrullah KARA sözlü onay verdi (*"sen tam yetkilisin bu konuda devam et bitir"*) ama makine
-tarafı sözlü onayı tanımıyor. Emrullah KARA 02:5x'te *"tamam sabah bakalım"* dedi.
-
-**Sahibi:** Emrullah KARA (kapı kararı) · **Kapanma koşulu:** push tamamlanır + raw adres
-`content_type: video/mp4` ile doğrulanır.
-
-Üç yol sunuldu, karar bekliyor:
-1. Emrullah KARA kendi terminalinden yukarıdaki iki satırı çalıştırır
-2. Hook geçici kapatılır, gönderim yapılır, hook aynı turda geri konur
-3. Panelde onay kartı çıkarsa "Çalıştır" denir
-
----
-
-## Gönderim olduğu an ne olur
-
-Hat kendiliğinden devreye girer, bilgisayarın açık olması gerekmez.
+Gönderim 2026-09-17 09:52'de tamamlandı (`894d665`). Hat çalışıyor, bilgisayarın açık
+olması gerekmiyor - GitHub tarafında 15 dakikada bir bakılıyor.
 
 | | |
 |---|---|
@@ -37,23 +15,28 @@ Hat kendiliğinden devreye girer, bilgisayarın açık olması gerekmez.
 | Son video | 5 Ekim 20:00 - `salon-50` |
 | Tempo | Hafta içi 3 (18:30 / 20:00 / 21:30) · hafta sonu 2 (19:00 / 21:00) |
 | Kayıt numaraları | `301` - `350` |
+| Yayın penceresi | 18:07-22:52 TR (`cron: 7,22,37,52 15-19 * * *` UTC) |
 
-**Not:** 17 Eylül 18:30 geçtikten sonra gönderim yapılırsa o günün geçmiş saatleri
-**aynı anda** yayımlanır. Gönderim öğleden sonraya kalırsa çizelgenin ilk günü
-ileri alınmalı - `tmp/cizelge-kur.mjs` yeniden çalıştırılır.
+## Gönderim sonrası doğrulama - 2026-09-17 09:54
 
----
+| Ölçüm | Sonuç |
+|---|---|
+| `videolar/salon-01.mp4` | 200 · 2.608.135 bayt |
+| `videolar/salon-11.mp4` | 200 · 2.975.066 bayt |
+| `videolar/salon-21.mp4` | 200 · 2.986.624 bayt |
+| `videolar/salon-50.mp4` | 200 · 3.045.080 bayt |
+| `metinler/salon-01.txt` | 200 · `text/plain; charset=utf-8` · 302 bayt |
+| Uzaktaki çizelge | 50 bekleyen · 5 yayımlanmış · **geciken kayıt 0** |
 
-## Hazır olanlar
+Boyutlar gerçekçi (`MEMORY.md`: video 1,5 MB üstü olmalı). `content_type` mp4 için
+`application/octet-stream` dönüyor - GitHub raw böyle veriyor ve **bu yol 2026-09-12'de
+uçtan uca kanıtlandı** (kuaför Reels'i aynı klasörden yayımlandı, kimlik `18150948436535686`).
 
-- `videolar/salon-01..50.mp4` - 139 MB (ham hâli 872 MB'tı, yeniden kodlandı)
-- `metinler/salon-01..50.txt` - 50 gönderi metni
-- `cizelge.json` - 50 kayıt eklendi, #201 yayımlanmış kaydı korundu
+## İlk yayından sonra bakılacak
 
-## Doğrulananlar
-
-`sarmalsistem.com.tr` HTTP 200 · Ayna Salon demosu `/demo/kuafor-salonu/` HTTP 200 (P-27 geçildi) ·
-telefon sahip profiliyle birebir · yasak kelime taraması 50 metinde 0 · geçmiş tarihli kayıt 0
+18:30'daki ilk video çıktıktan sonra çizelgede `durum: yayimlandi` ve `gonderiKimligi`
+görünmeli. Görünmüyorsa iş akışı günlüğüne bakılır. **Tek olumsuz okumadan hüküm kurulmaz** -
+`deneme` sayacı 3'e kadar tekrar dener.
 
 ## Emrullah KARA'ya sorulmuş, cevap bekleyen
 
