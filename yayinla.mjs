@@ -62,9 +62,21 @@ async function kabiBekle(kapId) {
 
 const cizelge = JSON.parse(fs.readFileSync(CIZELGE, "utf8"));
 const simdi = new Date();
-const sirasiGelen = cizelge.gonderiler.filter(
-  (g) => g.durum === "bekliyor" && new Date(g.zaman) <= simdi
-);
+
+/*
+  TUR BASINA TEK GONDERI - 2026-09-17'de eklendi.
+
+  Sebep olculdu: 17 Eylul'de is akisi gun boyunca YALNIZ BIR KEZ calisti (19:01 UTC).
+  O tek turda 18:30, 20:00 ve 21:30 kayitlarinin ucunun de saati gecmisti ve ucu
+  birden arka arkaya yayimlandi - gonderiler gune yayilmadi, aksam tek seferde bosaldi.
+  GitHub Actions zamanlanmis isleri yogun saatlerde atliyor; bu bizim degil platformun
+  davranisi. Duzeltme: her turda en fazla bir gonderi cikar. Bir tur kacarsa kalan
+  gonderi bir sonraki turda cikar, yigilmaz.
+*/
+const sirasiGelen = cizelge.gonderiler
+  .filter((g) => g.durum === "bekliyor" && new Date(g.zaman) <= simdi)
+  .sort((a, b) => a.zaman.localeCompare(b.zaman))
+  .slice(0, 1);
 
 if (!sirasiGelen.length) {
   const kalan = cizelge.gonderiler.filter((g) => g.durum === "bekliyor").length;
