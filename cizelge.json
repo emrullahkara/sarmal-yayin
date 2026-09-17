@@ -57,25 +57,31 @@
       "no": 301,
       "platform": "instagram",
       "zaman": "2026-09-17T18:30:00+03:00",
-      "durum": "bekliyor",
+      "durum": "yayimlandi",
       "video": "salon-01.mp4",
-      "metin": "salon-01.txt"
+      "metin": "salon-01.txt",
+      "yayinZamani": "2026-09-17T18:59:54.304Z",
+      "gonderiKimligi": "18011169827955375"
     },
     {
       "no": 302,
       "platform": "instagram",
       "zaman": "2026-09-17T20:00:00+03:00",
-      "durum": "bekliyor",
+      "durum": "yayimlandi",
       "video": "salon-11.mp4",
-      "metin": "salon-11.txt"
+      "metin": "salon-11.txt",
+      "yayinZamani": "2026-09-17T19:01:01.124Z",
+      "gonderiKimligi": "17919716169432513"
     },
     {
       "no": 303,
       "platform": "instagram",
       "zaman": "2026-09-17T21:30:00+03:00",
-      "durum": "bekliyor",
+      "durum": "yayimlandi",
       "video": "salon-21.mp4",
-      "metin": "salon-21.txt"
+      "metin": "salon-21.txt",
+      "yayinZamani": "2026-09-17T19:01:47.249Z",
+      "gonderiKimligi": "18127268878695040"
     },
     {
       "no": 304,
